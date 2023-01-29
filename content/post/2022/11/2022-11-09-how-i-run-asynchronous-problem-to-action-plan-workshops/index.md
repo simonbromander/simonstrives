@@ -3,7 +3,7 @@ title: How I run asynchronous \problem-to-action-plan\ workshops
 date: 2022-11-09
 description: 
 slug: 
-image: images/DALL·E-2022-11-09-07.29.50-workshop-teamwork-futuristic-asynchronous-connected-1024x565.jpg
+image: images/dalle.jpg
 categories: 
   - design-teams
   - workshops
