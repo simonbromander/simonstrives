@@ -5,7 +5,7 @@ slug: 3-takeaways-from-ftw-london-2022
 image: images/1*063r_6Tr1tGmQg-qw3-pDw.jpeg
 date: 2022-07-21
 categories: 
-  - fintech
+  - Fintech
 tags: 
   - fintech
  

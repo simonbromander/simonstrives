@@ -1,8 +1,8 @@
 ---
-title: "My 3 favorite tools to stay a-jour as a UX Designer in a Fintech scale up"
-date: "2022-07-22"
+title: My 3 favorite tools to stay a-jour as a UX Designer in a Fintech scale up
+date: 2022-07-22
 categories: 
-  - "strategy-and-tips"
+  - Design Tools
 ---
 
 I love working within UX, every day I get the opportunity do work that actually impacts the daily lives of our users. I work as a UX Designer at [Minna Technologies](https://minnatechnologies.com/) building infrastructure for Subscription management.
