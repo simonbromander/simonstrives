@@ -23,10 +23,10 @@ url = "https://twitter.com/bromander_simon"
 [social.params]
 icon = "brand-twitter"
 
-#[[social]]
-#identifier = "linkedin"
-#name = "LinkedIn"
-#url = "https://www.linkedin.com/in/simonbromander"
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/simonbromander"
 
-#[social.params]
-#icon = "brand-linkedin"
+[social.params]
+icon = "linkedin"
