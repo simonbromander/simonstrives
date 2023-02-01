@@ -12,8 +12,9 @@ identifier = "about"
 name = "About"
 url = "/about/"
 [main.params]
-icon = "about"
+icon = "user"
 newtab = false
+weight = -1
 
 #[[social]]
 #identifier = "github"
