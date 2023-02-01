@@ -1,12 +1,14 @@
 ---
-title: "Do’s and dont’s when giving Design Feedback"
-date: "2022-09-19"
+title: Do’s and dont’s when giving Design Feedback
+date: 2022-09-19
 description: 
 slug: 
 image: images/Frame-1-1.jpg
 categories: 
-  - "design-teams"
-  - "feedback"
+  - design-teams
+  - feedback
+tags:
+  - Working with others
 ---
 
 ## Introduction

@@ -8,9 +8,7 @@ categories:
   - design-teams
   - ux
 tags: 
-  - design
-  - teams
-  - ux
+  - Working with others
 ---
 
 Are you leading a UX design team? Do you desire a greater presence of your design team throughout the company?
@@ -29,7 +27,7 @@ I've worked in a variety of teams and businesses, from start-ups to large corpor
   
 It ultimately became unmotivating, which led to my resignation and a search for a better place to work. As a result, **I will now reveal what you can do to avoid this.**
 
-## **Be inclusive, share your work, and make the UX team more accessible for the wider organization.**
+## Be inclusive, share your work, and make the UX team more accessible for the wider organization.
 
 By doing this, your team will increase organizational learning, increase feedback and input on your work, as well as encourage participation from others in the design process.
 

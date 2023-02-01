@@ -1,5 +1,5 @@
 ---
-title: How I run asynchronous \problem-to-action-plan\ workshops
+title: How I run asynchronous "problem-to-action-plan" workshops
 date: 2022-11-09
 description: 
 slug: 
@@ -8,9 +8,7 @@ categories:
   - design-teams
   - workshops
 tags: 
-  - teams
-  - ux
-  - workshops
+  - Design Sprint
 ---
 
 I believe it's fair to assume that each one of us has, at some point in our lives, been in this situation: The team is having trouble getting things done because people are too busy with their own work to share ideas and make decisions. The task of completing the project has stalled. Do you recognize it?

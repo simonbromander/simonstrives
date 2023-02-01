@@ -1,5 +1,5 @@
 ---
-title: 10x the analysis speed of your user&nbsp;interviews
+title: 10x the analysis speed of your user interviews
 date: 2022-10-15
 description: 
 slug: 
@@ -8,10 +8,10 @@ categories:
   - user-research
   - ux
 tags: 
-  - notion
-  - research
-  - user-research
-  - ux
+  - Notion.so
+  - Research
+  - Organization
+  - Productivity
 ---
 
 UX designers and researchers frequently face the time-consuming challenge of interpreting and thematizing the interview scripts during user research. There are many user research tools that make thematizing easy and convenient, but they are often pricy and require a subscription fee. Notion  can be a decent alternative since you might already be using Notion for free or your employer might already be paying for it.

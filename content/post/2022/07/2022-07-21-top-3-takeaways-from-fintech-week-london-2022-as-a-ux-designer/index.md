@@ -6,8 +6,8 @@ image: images/1*063r_6Tr1tGmQg-qw3-pDw.jpeg
 date: 2022-07-21
 categories: 
   - Fintech
+  - Conferences
 tags: 
-  - fintech
  
 ---
 
@@ -16,7 +16,7 @@ tags:
 
 When I got the opportunity to join [Fintech Week London 2022](https://www2.deloitte.com/uk/en/pages/financial-services/articles/growth-through-financial-inclusion.html) as a part of my company’s product presence at the conference I wanted to take the opportunity to learn what’s to come in the Fintech space for product and especially UX. I’ve compiled my views and observations from the people I met below. All from a UX Designers point of view.
 
-## **1️⃣ Big Tech vs Big Banks**
+## 1️⃣ Big Tech vs Big Banks
 
 In the coming years, we will see an increasing number of Big Tech services leveraging the infrastructure built by Big Banks to provide better User Experiences. Consider Apple Pay and Google Pay; they essentially use the rails established by Big Banks to provide even better and more user-friendly services.
 
@@ -25,7 +25,7 @@ In the coming years, we will see an increasing number of Big Tech services lever
 - When Big Banks no longer own the customer journey, how will this affect their business models, and will they even want to compete in the same space?
 - Big Tech has no desire to build core banking services; rather, they would prefer to collaborate in order to use the infrastructure. How can the Big Banks profit from this?
 
-## **2️⃣ Embedded finance, is an opportunity to make financial services even more accessible**
+## 2️⃣ Embedded finance, is an opportunity to make financial services even more accessible
 
 When planning for the future, embedded finance is ready to be used right now. Embedded Finance is the integration of traditional financial services into services provided by non-financial organizations.
 
@@ -38,7 +38,7 @@ Embedded finance comes with:
 
 As a UX Designer, I see opportunities in this space for identifying new pain-point patterns and use-cases where Embedded Finance can assist in problem solving.
 
-## **3️⃣ Subscription management for financial inclusivity**
+## 3️⃣ Subscription management for financial inclusivity
 
 When I introduced myself to the first two people I met at FTWL, they both told me about their recent attempts to cancel a UK newspaper. Their experience was dreadful, and they were eventually forced to call the Merchant and argue with a support representative about why they wanted to cancel. Why is this the case?
 

@@ -7,9 +7,8 @@ image: images/Frame-1-1024x604.jpg
 categories: 
   - design-tools
 tags: 
-  - design
-  - figma
-  - ux
+  - Figma
+  - Adobe
 ---
 
 
