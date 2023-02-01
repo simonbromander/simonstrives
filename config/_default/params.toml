@@ -29,7 +29,7 @@ enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 [favicon]
-type = "assets/favicon.ico"
+type = "/assets/favicon.ico"
 
 ## Widgets
 [[widgets.homepage]]

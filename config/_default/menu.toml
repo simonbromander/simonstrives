@@ -10,7 +10,7 @@
 [[main]]
 identifier = "about"
 name = "About"
-url = "/about"
+url = "/about/"
 [main.params]
 icon = "about"
 newtab = false
