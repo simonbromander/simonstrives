@@ -2,7 +2,7 @@
 title: About
 ---
 ## About me​
-As a senior user experience designer, I have expertise working with many types businesses to find solutions to issues and produce excellent UX. My daily motivation comes from guiding a group of people toward a single objective. I like to gather with others to generate ideas and work on problems(wether this being remote or in-person), while designating deep work time to concentrate on developing solutions and organizing future work.
+As a seni--or user experience designer, I have expertise working with many types businesses to find solutions to issues and produce excellent UX. My daily motivation comes from guiding a group of people toward a single objective. I like to gather with others to generate ideas and work on problems(wether this being remote or in-person), while designating deep work time to concentrate on developing solutions and organizing future work.
 
 
 ![Working remote](images/workingoutside.jpg)
