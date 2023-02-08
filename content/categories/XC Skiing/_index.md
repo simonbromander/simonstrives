@@ -1,6 +1,6 @@
 ---
-title: Fintech
-description: Writings about Fintech
+title: XC Skiing
+description: 
 image: 
 
 # Badge style

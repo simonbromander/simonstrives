@@ -1,6 +1,6 @@
 ---
-title: UX
-description: User Experience
+title: Adventures
+description: 
 image:
 
 # Badge style
