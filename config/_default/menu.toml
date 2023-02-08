@@ -30,7 +30,7 @@
 #url = "https://twitter.com/bromander_simon"
 
 #[social.params]
-icon = "brand-twitter"
+#icon = "brand-twitter"
 
 [[social]]
 identifier = "strava"
