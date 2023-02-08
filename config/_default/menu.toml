@@ -7,14 +7,14 @@
 #icon = "home"
 #newtab = true
 
-[[main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-[main.params]
-icon = "user"
-newtab = false
-weight = -1
+#[[main]]
+#identifier = "about"
+#name = "About"
+#url = "/about/"
+#[main.params]
+#icon = "user"
+#newtab = false
+#weight = -1
 
 #[[social]]
 #identifier = "github"
@@ -24,18 +24,18 @@ weight = -1
 #[social.params]
 #icon = "brand-github"
 
-[[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com/bromander_simon"
+#[[social]]
+#identifier = "twitter"
+#name = "Twitter"
+#url = "https://twitter.com/bromander_simon"
 
-[social.params]
+#[social.params]
 icon = "brand-twitter"
 
 [[social]]
-identifier = "linkedin"
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/simonbromander"
+identifier = "strava"
+name = "Strava"
+url = "https://www.strava.com/athletes/1923860"
 
 [social.params]
-icon = "linkedin"
+icon = "strava"

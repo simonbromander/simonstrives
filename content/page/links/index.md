@@ -12,6 +12,9 @@ menu:
             icon: link
 
 comments: false
+_build:
+ list: false
+ render: false
 ---
 
 To use this feature, add `links` section to frontmatter.
