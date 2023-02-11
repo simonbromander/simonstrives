@@ -1,5 +1,5 @@
 ---
-title: First impressions: Thule Chariot Sport 2
+title: First impressions; Thule Chariot Sport 2
 description: 
 slug: 
 image: images/thule-chariot-sport2.png
